@@ -8,15 +8,15 @@ const htmlContent = `
 <style>
 h1 {
   padding: 2rem;
-  background-color: #E85D75;
-  color: #F5FBFE;
+  background-color: #4B7F52;
+  color: #96E8BC;
   border:1px solid #bbb;
   text-align: center;
 }
 </style>
 </head>
 <body>
-  <h1>Sample node http server V2</h1>
+  <h1>Sample node http server V3</h1>
 </body>
 </html>
 `;
